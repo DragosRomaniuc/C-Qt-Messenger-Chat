@@ -1,3 +1,3 @@
 # C-Qt-Messenger-Chat
 
-![alt text](https://imgur.com/amqBlsi)
+![alt text](https://i.imgur.com/amqBlsi.jpg)
