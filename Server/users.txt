@@ -1,0 +1,5 @@
+Dragos:parolaDragos
+Ioana:parolaIoana
+Matei:parolaGeorge
+Razvan
+George

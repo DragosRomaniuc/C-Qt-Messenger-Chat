@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Proiect2Interfata.dir/main.cpp.o CMakeFiles/Proiect2Interfata.dir/TCPListener.cpp.o  -o Proiect2Interfata 
